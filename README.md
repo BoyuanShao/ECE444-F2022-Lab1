@@ -6,4 +6,4 @@ Boyuan Shao
 
 <img width="513" alt="截屏2022-09-16 上午11 40 12" src="https://user-images.githubusercontent.com/59927679/190677485-f2cf75c2-c04e-473c-b439-a495dd72c012.png">
 
-<img width="2048" alt="截屏2022-09-16 下午9 17 31" src="https://user-images.githubusercontent.com/59927679/190835000-fc58ea16-fa7d-4d82-877c-ceb19e447c84.png">
+<img width="1449" alt="截屏2022-09-16 下午9 20 05" src="https://user-images.githubusercontent.com/59927679/190835018-f9b51665-d101-4382-bbd4-8a640d4b6d9c.png">
