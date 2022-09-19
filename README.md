@@ -28,3 +28,7 @@ The lab handout and TA's statement is contradicting for this activity. If our go
 
 
 <img width="624" alt="截屏2022-09-18 下午4 49 54" src="https://user-images.githubusercontent.com/59927679/191132731-7becba61-bf37-4640-b610-118e5a709ef1.png">
+
+Activity 6:
+
+https://github.com/BoyuanShao/ECE444-F2022-EP
