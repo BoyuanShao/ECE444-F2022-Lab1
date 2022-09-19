@@ -12,9 +12,17 @@ Activity 3:
 
 <img width="1449" alt="截屏2022-09-16 下午9 20 05" src="https://user-images.githubusercontent.com/59927679/190835018-f9b51665-d101-4382-bbd4-8a640d4b6d9c.png">
 
+Activity 4:
+
+https://github.com/shawnzhang12/ECE444-F2022-Lab1
+
+<img width="962" alt="截屏2022-09-18 下午3 29 30" src="https://user-images.githubusercontent.com/59927679/191132341-6d6d2e92-34e2-4ab1-bb2a-2e7cd7e86169.png">
+
+
 
 Activity 5:
 
 The lab handout and TA's statement is contradicting for this activity. If our goal is to update "develop" branch (as TA Enmeng Liu said in Piazza), it is impossible to move c1, c2 after c4 using git rebase. If we want to achieve that, we would have to use something like git cherry pick. If we want c3->c4->c1->c2, we must update the branch "rebase". To do that, we have to first switch to branch "rebase", and run "git rebase develop", and then the branch "rebase" would have c3->c4->c1->c2. But I don't think this is what this activity intended to be.
 
 <img width="624" alt="截屏2022-09-18 下午4 49 54" src="https://user-images.githubusercontent.com/59927679/190927633-6ca4607f-75b3-45ef-8288-7ffecb1907de.png">
+![Uploading 截屏2022-09-18 下午3.29.30.png…]()
