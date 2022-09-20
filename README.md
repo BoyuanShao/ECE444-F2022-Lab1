@@ -24,7 +24,7 @@ https://github.com/shawnzhang12/ECE444-F2022-Lab1
 
 Activity 5:
 
-The lab handout and TA's statement is contradicting for this activity. If our goal is to update "develop" branch (as TA Enmeng Liu said in Piazza), it is impossible to move c1, c2 after c4 using git rebase. If we want to achieve that, we would have to use something like git cherry pick. If we want c3->c4->c1->c2, we must update the branch "rebase". To do that, we have to first switch to branch "rebase", and run "git rebase develop", and then the branch "rebase" would have c3->c4->c1->c2. But I don't think this is what this activity intended to be.
+The lab instruction is ambigious for this activity. If our goal is to update "develop" branch (as TA Enmeng Liu said in Piazza), it is impossible to move c1, c2 after c4 using git rebase. If we want to achieve that, we would have to use something like git cherry pick. If we want c3->c4->c1->c2, we must update the branch "rebase". To do that, we have to first switch to branch "rebase", and run "git rebase develop", and then the branch "rebase" would have c3->c4->c1->c2. But I don't think this is what this activity intended to be. 
 
 
 <img width="624" alt="截屏2022-09-18 下午4 49 54" src="https://user-images.githubusercontent.com/59927679/191132731-7becba61-bf37-4640-b610-118e5a709ef1.png">
@@ -32,3 +32,12 @@ The lab handout and TA's statement is contradicting for this activity. If our go
 Activity 6:
 
 https://github.com/BoyuanShao/ECE444-F2022-EP
+
+Activity 7:
+
+<img width="1787" alt="截屏2022-09-19 下午9 06 35" src="https://user-images.githubusercontent.com/59927679/191146632-23304ced-5f55-4572-9973-dd5f29bd61e0.png">
+
+<img width="571" alt="截屏2022-09-19 下午9 15 36" src="https://user-images.githubusercontent.com/59927679/191146639-1a036c61-bcda-4be4-b709-e1e1444a8057.png">
+
+
+
