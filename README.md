@@ -25,7 +25,8 @@ https://github.com/shawnzhang12/ECE444-F2022-Lab1
 Activity 5:
 
 
-<img width="624" alt="截屏2022-09-18 下午4 49 54" src="https://user-images.githubusercontent.com/59927679/191132731-7becba61-bf37-4640-b610-118e5a709ef1.png">
+![307633648_1107911083173113_7463216635325176112_n](https://user-images.githubusercontent.com/59927679/191403953-e44f04e2-e790-4a32-8fe8-6218ec5d08b3.png)
+
 
 Activity 6:
 
